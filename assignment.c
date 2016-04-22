@@ -16,6 +16,6 @@ int getNum(int argc, char** argv){
 int main(void) {
 	
 
-
+	printf(“This is just a template\n”);
 	return 0;
 }
